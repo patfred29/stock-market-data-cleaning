@@ -19,7 +19,9 @@ Independent project — cleaned and analyzed a 1,000-row mock stock market datas
 Excel (IF/OR logic, structured Tables, Pivot Tables)
 
 ## Files
-- `MOCK_DATA.xlsx` — original raw dataset
+- `MOCK_DATA.csv` — original raw dataset
 - `MOCK_DATA_Cleaned2.xlsx` — cleaned dataset with completeness-check formula and Pivot Table (sheets: MOCK_DATA, pivot_chart)
 
-
+## Screenshots
+![Cleaned data with completeness formula](Screenshot%202026-09-23%20200038.png)
+![Pivot table by sector](Screenshot%202026-09-23%20200106.png)
