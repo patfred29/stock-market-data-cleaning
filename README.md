@@ -21,3 +21,5 @@ Excel (IF/OR logic, structured Tables, Pivot Tables)
 ## Files
 - `MOCK_DATA.xlsx` — original raw dataset
 - `MOCK_DATA_Cleaned2.xlsx` — cleaned dataset with completeness-check formula and Pivot Table (sheets: MOCK_DATA, pivot_chart)
+
+
